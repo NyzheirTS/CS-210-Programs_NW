@@ -1,0 +1,4 @@
+﻿  Project_2_C++_NW.cpp
+C:\Users\eshas\source\repos\Project_2_C++_NW\Project_2_C++_NW\Project_2_C++_NW.cpp(124,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\eshas\source\repos\Project_2_C++_NW\Project_2_C++_NW\Project_2_C++_NW.cpp(126,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Project_2_C++_NW.vcxproj -> C:\Users\eshas\source\repos\Project_2_C++_NW\Debug\Project_2_C++_NW.exe
